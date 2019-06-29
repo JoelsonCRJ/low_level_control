@@ -7,7 +7,11 @@
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
+<<<<<<< HEAD
   <maintainer email="familia@todo.todo">familia</maintainer>
+=======
+  <maintainer email="joelson@todo.todo">joelson</maintainer>
+>>>>>>> d68b3958c4974f1a5ca823cf937754801e438f10
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
